@@ -1,0 +1,5 @@
+# Убрать HTML из статистики языков GitHub
+*.html linguist-generated=true
+*.css linguist-generated=true
+*.js linguist-generated=true
+index.html linguist-generated=true
